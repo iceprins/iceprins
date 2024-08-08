@@ -24,7 +24,11 @@
 
 <br>
 
+<div align=center><h2>📊 Statistics 📊</h2></div>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junghk97)](https://solved.ac/junghk97)
+<br>
+<br>
 [![Hankyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceprins)](https://github.com/iceprins/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&fontSize=30&section=footer)
