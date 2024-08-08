@@ -24,7 +24,6 @@
 
 <br>
 
-<h3 align="center">📊 Statistics 📊</h3>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junghk97)](https://solved.ac/junghk97)
 [![Hankyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceprins)](https://github.com/iceprins/github-readme-stats)
 
