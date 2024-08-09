@@ -20,14 +20,16 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 <br>
 
-<div align=center><h2>📊 Statistics 📊</h2></div>
+<div align=center><h3>📊 Statistics 📊</h3></div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junghk97)](https://solved.ac/junghk97)
-<br>
 <br>
 [![Hankyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceprins)](https://github.com/iceprins/github-readme-stats)
 
