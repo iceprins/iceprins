@@ -28,7 +28,6 @@
 <br>
 
 <h3 align="center">📊 Statistics 📊</h3>
-<br>
 <div align="center">
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junghk97)](https://solved.ac/junghk97)
